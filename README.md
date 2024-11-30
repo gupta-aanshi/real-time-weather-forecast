@@ -85,3 +85,12 @@ If the city name is invalid:
    ![Homepage](https://github.com/gupta-aanshi/real-time-weather-forecast/blob/main/assets/screenshots/Screenshot%202024-11-30%20175620.png)
 3. Search Results:
    ![Search Results](https://github.com/gupta-aanshi/real-time-weather-forecast/blob/main/assets/screenshots/Screenshot%202024-11-30%20175554.png)
+
+---
+
+## Contributing
+
+Feel free to fork this repository and create pull requests with your suggestions or improvements. If you encounter any issues or have new ideas, open an issue, and I'll be happy to review and discuss it.
+
+Feel free to connect with me for any questions or collaboration!
+
