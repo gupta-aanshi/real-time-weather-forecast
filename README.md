@@ -103,7 +103,7 @@ The app uses the OpenWeatherMap API to fetch weather data. Below is a brief expl
    
 4. Example Request:
    ```bash
-   https://api.openweathermap.org/data/2.5/weather?units=metric&q=London&appid=your_api_key
+   https://api.openweathermap.org/data/2.5/weather?units=metric&q=New+Delhi&appid=your_api_key
 
 
 ## Contributing
