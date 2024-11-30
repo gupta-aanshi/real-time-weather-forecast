@@ -88,6 +88,24 @@ If the city name is invalid:
 
 ---
 
+## API Integration
+The app uses the OpenWeatherMap API to fetch weather data. Below is a brief explanation of the API usage:
+
+1. Base URL:
+   ```bash
+   https://api.openweathermap.org/data/2.5/weather?units=metric&q=
+
+2. Parameters:
+
+     -units=metric: Ensures temperature is displayed in Celsius.
+     -q: Specifies the city name entered by the user.
+     -appid: Your API key for authentication.
+   
+4. Example Request:
+   ```bash
+   https://api.openweathermap.org/data/2.5/weather?units=metric&q=London&appid=your_api_key
+
+
 ## Contributing
 
 Feel free to fork this repository and create pull requests with your suggestions or improvements. If you encounter any issues or have new ideas, open an issue, and I'll be happy to review and discuss it.
