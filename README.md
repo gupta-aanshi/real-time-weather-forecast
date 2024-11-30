@@ -81,7 +81,7 @@ If the city name is invalid:
 
 ## Screenshots
 
-1. **Homepage:**
+1. Homepage:
    ![Homepage](https://github.com/gupta-aanshi/real-time-weather-forecast/blob/main/assets/screenshots/Screenshot%202024-11-30%20175620.png)
-3. **Search Results:**
-   ![Search Results]()
+3. Search Results:
+   ![Search Results](https://github.com/gupta-aanshi/real-time-weather-forecast/blob/main/assets/screenshots/Screenshot%202024-11-30%20175554.png)
